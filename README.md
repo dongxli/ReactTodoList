@@ -1,5 +1,5 @@
 # ReactTodoList
-My first React app by following a tutorial!
+A todo list React application by following a tutorial
 
 Install dependencies 
 
